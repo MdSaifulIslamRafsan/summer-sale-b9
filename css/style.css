@@ -4,3 +4,6 @@
   margin: 0;
   font-family: Work sans-serif;
 }
+menu, ol, ul{
+  list-style: decimal !important;
+}
